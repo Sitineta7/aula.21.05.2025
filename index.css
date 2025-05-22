@@ -1,0 +1,26 @@
+#relogio{
+    font-family: "Orbitron";
+    font-size: larger;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-family: "Orbitron";
+    font-size: large;
+    text-align: center;
+    color: white;
+    background-color: dimgrey;
+}
+body{
+    font-family: "Orbitron";
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color: white;
+}
+button{
+    color: white;
+    font-family: "Orbitron";
+    background-color: rgb(27, 25, 25);
+}
